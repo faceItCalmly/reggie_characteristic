@@ -1,0 +1,6 @@
+23:22:19.826 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6cfcd46d
+23:22:19.976 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 3 bean definitions from class path resource [bean.xml]
+23:22:20.005 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+23:22:20.015 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'book1'
+23:22:20.026 WARN  org.springframework.core.LocalVariableTableParameterNameDiscoverer 123 inspectClass - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.zxb.Book
+23:22:20.031 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'book2'
