@@ -1,4 +1,4 @@
-package org.zxb.servelt;
+package org.zxb.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -9,6 +9,9 @@ import java.io.IOException;
 public class HelloServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+
         // 获取前端参数
         String method  = req.getParameter("");
         if(method.equals("add")){

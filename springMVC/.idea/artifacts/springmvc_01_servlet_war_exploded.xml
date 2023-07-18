@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvc-01-servlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvc_01_servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springmvc-01-servlet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.2" />
+          <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.2.0" />
+          <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.9.2" />
+          <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="springmvc-01-servlet/web/Web" />
+    </root>
+  </artifact>
+</component>
