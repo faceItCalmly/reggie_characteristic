@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a8f67a4-9845-43d7-a9e6-818c61dda404" name="Changes" comment="" />
+    <list default="true" id="0a8f67a4-9845-43d7-a9e6-818c61dda404" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/src/main/java/org/zxb/servelt/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/src/main/java/org/zxb/servelt/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2S91nJf8mpbcXg0zOu0pKZrWb7P" />
@@ -28,6 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/zhang/Desktop/reggie_characteristic/springMVC",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -36,7 +54,8 @@
     "onboarding.tips.debug.path": "C:/Users/zxb/Desktop/reggie/springMVC/springmvc-01-servlet/src/main/java/org/zxb/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.16551724",
+    "project.structure.side.proportion": "0.27471265",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,6 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688544150137</updated>
       <workItem from="1688544151173" duration="2747000" />
+      <workItem from="1689604307035" duration="506000" />
+      <workItem from="1689604963011" duration="10270000" />
     </task>
     <servers />
   </component>
